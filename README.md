@@ -2,8 +2,9 @@
 
 Express + MongoDB server for **BookNook**, a small online library.
 
-**Live API:** https://your-booknook-api.vercel.app  <!-- replace with your deployed server URL -->
-**Client (frontend repo):** https://your-booknook-site.vercel.app  <!-- replace with your deployed client URL -->
+**Live API:** https://booknook-backend-one.vercel.app  
+
+**Client (frontend repo):** https://booknook-frontend-tan.vercel.app 
 
 ## Features
 
